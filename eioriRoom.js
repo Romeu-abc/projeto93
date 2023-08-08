@@ -1,14 +1,15 @@
 
 //ADICIONE SEUS LINKS FIREBASE
 const firebaseConfig = {
-  apiKey: "AIzaSyDW19wda6KfMYNulU92UWEgZMAPOi11DkE",
-  authDomain: "eiori-2b4ec.firebaseapp.com",
-  databaseURL: "https://eiori-2b4ec-default-rtdb.firebaseio.com",
-  projectId: "eiori-2b4ec",
-  storageBucket: "eiori-2b4ec.appspot.com",
-  messagingSenderId: "117065895088",
-  appId: "1:117065895088:web:9837a34185ab161208bf75"
+  apiKey: "AIzaSyCelItr11fm6Qi1nwaYcvTITxuE1-XQK0M",
+  authDomain: "eiori2.firebaseapp.com",
+  databaseURL: "https://eiori2-default-rtdb.firebaseio.com",
+  projectId: "eiori2",
+  storageBucket: "eiori2.appspot.com",
+  messagingSenderId: "323557069069",
+  appId: "1:323557069069:web:1ae8e81d96617f008ba044"
 };
+
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
